@@ -1,0 +1,16 @@
+body {
+  font-family: system-ui;
+  background: #111;
+  color: #ffd700;
+  text-align: center;
+  padding: 40px;
+}
+
+#price {
+  font-size: 3rem;
+}
+
+#change {
+  font-size: 1.5rem;
+  margin-top: 10px;
+}
